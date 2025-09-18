@@ -74,11 +74,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
-<a href="https://discord.com/channels/@aquackzinha">
-<img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
-</a>
 
-</p>
 
 </table>
 
