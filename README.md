@@ -75,7 +75,7 @@
   </a>
   
 <!-- Email -->
-<a href="mailto:nicoledosanjos.dev@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Nicole,%2C%20gostaria%20de%20falar%20com%20você!">
+<a href="mailto:nicoledosanjos.dev@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Nicole%2C%20gostaria%20de%20falar%20com%20você!">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
   
