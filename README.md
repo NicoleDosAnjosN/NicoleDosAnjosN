@@ -8,12 +8,6 @@
 >I’m passionate about technology, problem-solving, and creating projects that make a difference.  
 
 
-## 💻 Development Interests
-
->**Front-end development**: building interactive and user-friendly web applications using HTML, CSS, and JavaScript.  
->**Back-end exploration**: interested in learning back-end technologies to become a full-stack developer in the future.  
->**Project learning**: experimenting with small projects to practice coding, improve logic, and understand real-world applications.  
-
 ## 🌱 Career Goals
 
 >I aspire to become a developer who can deliver complete web solutions, combining both front-end and back-end skills.  
@@ -48,16 +42,13 @@
 
 <p align="center"> 
  Connect with me:
-<p align="center">                
+<p align="center"> 
+  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/nicole-dos-anjos-nogueira-126016315/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/nicoleeih/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   
 <!-- Email -->
 <a href="mailto:nicoledosanjos.dev@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Nicole%2C%20gostaria%20de%20falar%20com%20você!">
